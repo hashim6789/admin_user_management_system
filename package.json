@@ -1,0 +1,24 @@
+{
+  "name": "su_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "MUHAMMED HASHIM",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-mongodb-session": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.1",
+    "sweetalert": "^2.1.2",
+    "uuid": "^10.0.0"
+  }
+}
